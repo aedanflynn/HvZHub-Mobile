@@ -12,5 +12,5 @@ Features:
 
 Note: This app is still in beta. If you find something that doesn't work, or even if just have a suggestion, please send us a message using the 'Send Feedback' button in the app.
 
-# #Downloads
+## Downloads
 You can get the app [on the play store](https://play.google.com/store/apps/details?id=com.hvzhub.app&hl=en), or from the [releases](https://github.com/dst33nburgh/HvZHub-App/releases) tab.
