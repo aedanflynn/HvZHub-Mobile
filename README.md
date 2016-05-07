@@ -1,5 +1,5 @@
-# HvZHub-App
-HvZHub is a companion app for the http://www.HvZHub.com/ website, which can be used to organize Humans vs Zombies games.
+# HvZHub Mobile
+HvZHub Mobile is a companion app for the http://www.HvZHub.com/ website, which can be used to organize Humans vs Zombies games.
 For more information about Humans vs Zombies, visit http://www.humansvszombies.org/
 For more information about HvZHub, visit http://www.HvZHub.com/
 Features:
